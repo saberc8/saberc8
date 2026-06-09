@@ -1,7 +1,5 @@
 ## Hi, I'm Saber
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=saberc8&show_icons=true&theme=onedark">
-
 ### Vibe Coding Builder
 
 我喜欢把模糊想法快速变成可上线的产品。
@@ -58,9 +56,3 @@ while (idea) {
 - 能用 AI 提速的环节，绝不手搓重复劳动
 - 会把 Agent 工作流、工具调用和产品体验一起设计进去
 - 不只写页面，也会考虑信息结构、交互和上线落地
-
----
-
-### Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saberc8&layout=compact&theme=onedark)](https://github.com/saberc8/github-readme-stats)
